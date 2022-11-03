@@ -15,9 +15,10 @@ text-align: center;
 
 @media screen and (max-width: 568px) {
   .cover__subtitle {
-    max-width: none;
-    font-size: 14px;
     line-height: 16px;
     margin: 8px 0 0;
+    max-width: none;
+    font-size: 14px;
+
   }
 }

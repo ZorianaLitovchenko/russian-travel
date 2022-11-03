@@ -1,5 +1,23 @@
 .place__paragraphs {
   max-width: 484px;
-  min-height: 460px;
   grid-area: text;
+}
+
+@media screen and (max-width: 1124px) {
+  .place__paragraphs {
+    max-width: 456px;
+
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .place__paragraphs {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .place__paragraphs {
+    max-width: 288px;
+  }
 }
