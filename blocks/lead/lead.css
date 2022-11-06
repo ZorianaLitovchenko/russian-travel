@@ -1,6 +1,5 @@
 .lead {
   font-family: 'Inter', Arial, sans-serif;
-  width: 100%;
   max-width: 984px;
   margin: 0 auto;
   display: flex;
@@ -8,23 +7,9 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1030px) {
   .lead {
-    max-width: 928px;
-  }
-}
-
-@media screen and (max-width: 984px) {
-  .lead {
-    max-width: 768px;
+    max-width: 100%;
     margin: 0;
-    padding: 0;
-  }
-}
-
-@media screen and (max-width: 568px) {
-  .lead {
-    max-width: 768px;
-
   }
 }

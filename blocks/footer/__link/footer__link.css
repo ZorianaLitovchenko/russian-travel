@@ -3,9 +3,8 @@
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 18px;
+  line-height: 1.12;
   text-decoration: none;
-  margin: 0 18px 0 0;
   padding: 0;
   opacity: 1;
   transition: 0.5s;
@@ -16,9 +15,9 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 672px) {
   .footer__link {
     font-size: 24px;
-    line-height: 24px;
+    line-height: 1;
 }
 }

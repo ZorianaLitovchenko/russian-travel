@@ -1,11 +1,12 @@
-.place__website_link {
+.place__link {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1.22;
   text-decoration-line: underline;
-  color: #fff;
+  align-self: flex-start;
+  color: #ffffff;
   opacity: 1;
   transition: 0.5s;
   margin: 0;
