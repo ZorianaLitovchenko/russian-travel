@@ -13,20 +13,21 @@
 
 @media screen and (max-width: 1124px) {
   .lead__subtitle {
-    margin-bottom: 56px;
+    margin: 0 auto 56px;
   }
 }
 
 @media screen and (max-width: 761px) {
   .lead__subtitle {
-    max-width: 545px;
+    max-width: 540px;
+    margin: 0 auto 64px;
     }
   }
 
 @media screen and (max-width: 568px) {
   .lead__subtitle {
     max-width: 288px;
-    margin-bottom: 40px;
+    margin: 0 auto 40px;
     font-size: 16px;
     line-height: 1.25;
   }
