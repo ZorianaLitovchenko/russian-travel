@@ -10,5 +10,7 @@
     margin-left: 16px;
     margin-right: 16px;
     align-self: start;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 }

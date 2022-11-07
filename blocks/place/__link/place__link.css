@@ -7,12 +7,12 @@
   align-self: flex-start;
   color: #ffffff;
   opacity: 1;
-  transition: 0.5s;
+  transition: .5s;
   margin: 0;
   padding: 0;
 }
 
 .place__website_link:hover {
-  opacity: 0.8;
+  opacity: .8;
 }
 
