@@ -1,11 +1,10 @@
 .header {
-  font-family: 'Inter', Arial, sans-serif;
   display: flex;
   justify-content: space-between;
   max-width: 1184px;
   max-height: 52px;
   box-sizing: border-box;
-  margin: 0 48px 48px 56px;
+  margin: 0 48px 56px 48px;
 }
 
 @media screen and (max-width: 1124px) {
